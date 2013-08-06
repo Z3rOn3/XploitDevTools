@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3.3
 #=============================================#
 # Title   : Metasploit pattern_create.py      #
 # Author  : Z3r0n3                            #
