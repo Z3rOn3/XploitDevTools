@@ -13,7 +13,7 @@
 #                                                      #
 #                           http://01day.wordpress.com #
 #======================================================#
-# Title: UniPloit - For Unicode Buffer Exploitation    #
+# Title: UniPloit - For Unicode BOF Exploitation       #
 # Release Date: 06/08/2013                             #
 # Author: Z3r0n3 - z3r0n3@mail.com                     #
 # blog: http://01day.wordpress.com                     #
